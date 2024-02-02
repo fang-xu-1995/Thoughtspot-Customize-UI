@@ -420,7 +420,7 @@ select {
 .tokenizer-module__tokenizerContainer .tokenizer-module__token{
 	background: #2B3953  ;
 	border: none  ;
-	border: 1px solid #454648  ;
+	border: 1px solid #2E3951  ;
 	padding-bottom: 2px  ;
 }
 .answer-content-module__vizContainer{
@@ -470,7 +470,7 @@ select {
 }
 .accordion-module__listItem.accordion-module__listItemActive,
 .accordion-module__listItem:hover{
-	background: #454648  ;
+	background: #2E3951  ;
 }
 .bk-actionable-list .bk-actionable-list-content .bk-actionable-list-header,
 .bk-actionable-list .bk-actionable-list-content .bk-list-content.bk-contains-scrollbar,
@@ -535,7 +535,7 @@ select {
 	font-weight: bold  ;
 }
 .menu-module__actionMenu.menu-module__sideNavVariant .menu-module__item>.menu-module__item.menu-module__itemActive>.menu-module__itemInfo, .menu-module__actionMenu.menu-module__sideNavVariant .menu-module__menuGroupWrapper>.menu-module__item.menu-module__itemActive>.menu-module__itemInfo{
-	background: #454648  ;
+	background: #2E3951  ;
 }
 .layout-module__page .layout-module__innerContainer{
 	background: #172137  ;
@@ -606,7 +606,7 @@ select {
 }
 .rd-chip{
 	background: #2B3953  ;
-	border: 1px solid #454648  ;
+	border: 1px solid #2E3951  ;
 	border-radius: 4px  ;
 }
 .table-viz-module__colHeader .button-module__button{
@@ -963,7 +963,7 @@ input.bk-search-input{
 .chip-base-module__attribute:not(.chip-base-module__edit),
 .chip-base-module__measure:not(.chip-base-module__edit){
 	background: #2B3953  ;
-	border: 1px solid #454648  ;
+	border: 1px solid #2E3951  ;
 	border-radius: 4px  ;
 }
 .chart-selector-module__bkVizSelector .chart-selector-module__bkVizTypeSelector.chart-selector-module__selected{
@@ -992,19 +992,19 @@ input.bk-search-input{
 	background: none  ;
 }
 .bk-outline .ag-theme-alpine .ag-root-wrapper{
-	border: 1px solid #454648  ;
+	border: 1px solid #2E3951  ;
 }
 .ag-theme-alpine .ag-ltr .ag-cell{
-	border-right: 1px solid #454648  ;
+	border-right: 1px solid #2E3951  ;
 }
 .bk-outline .ag-theme-alpine .ag-floating-bottom{
-	border-top: 1px solid #454648  ;
+	border-top: 1px solid #2E3951  ;
 }
 .ag-theme-alpine .ag-header-viewport{
 	border-bottom: none  ;
 }
 .bk-outline .ag-theme-alpine .ag-header{
-	border-bottom: 1px solid #454648  ;
+	border-bottom: 1px solid #2E3951  ;
 }
 .bk-actionable-list .bk-actionable-list-content .bk-actionable-list-header{
 	background: #172137  ;
@@ -1015,11 +1015,11 @@ input.bk-search-input{
 .bk-actionable-list .bk-actionable-list-content .bk-list-header{
 	background: #2B3953  ;
 	color: #fff  ;
-	border: 1px solid #454648  ;
+	border: 1px solid #2E3951  ;
 }
 .bk-actionable-list .bk-actionable-list-content .bk-list-content .bk-list-content-wrapper{
 	background: #161E32  ;
-	border: 1px solid #454648  ;
+	border: 1px solid #2E3951  ;
 	border-top: none  ;
 	color: #fff  ;
 }
@@ -1032,7 +1032,7 @@ input.bk-search-input{
 	font-weight: normal  ;
 }
 .bk-actionable-list .bk-actionable-list-content .bk-list-content .bk-list-content-li{
-	border-bottom: 1px solid #454648  ;
+	border-bottom: 1px solid #2E3951  ;
 }
 .bk-actionable-list .bk-actionable-list-content .bk-list-content .bk-list-content-li:hover:not(.bk-row-selected-bg){
 	background: #161E32  ;
@@ -1059,7 +1059,7 @@ input.bk-search-input{
 }
 .bk-checkbox-container .bk-checkbox-label::before{
 	background: none  ;
-	border: 1px solid #454648  ;
+	border: 1px solid #2E3951  ;
 	border-radius: 4px  ;
 }
 .bk-schedhule-maintainance .bk-notification-separator {
@@ -1571,7 +1571,7 @@ svg text {
 	background: #2B3953  ;
 }
 .admin-context-menu .menu-item:hover{
-	background: #454648  ;
+	background: #2E3951  ;
 }
 .layout-module__page .right-panel-module__container{
 	background: #172137  ;
